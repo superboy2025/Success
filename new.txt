@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-master branch lets see if this text writte in master branch changes or not haha.
-author - Mr Kami Dorje
-=======
 I am just trying to see if this text written in branch styles will be merged to main branch named master.
 lets see.
 author sherpa
->>>>>>> styles
