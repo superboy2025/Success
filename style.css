@@ -21,7 +21,7 @@ nav ul {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center;
+    justify-content:right;
 }
 
 nav ul li {
@@ -62,7 +62,7 @@ nav ul li a:hover {
     padding: 20px;
     max-width: 800px;
     margin: 20px auto;
-    background-color: #fff;
+    background-color: #57b6d6;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
